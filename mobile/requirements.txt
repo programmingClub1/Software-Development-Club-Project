@@ -1,0 +1,3 @@
+-  track GPS
+-  recieve and process payments (square)
+-  manage the technician's job queue
