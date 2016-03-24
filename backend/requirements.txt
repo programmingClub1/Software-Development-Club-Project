@@ -1,0 +1,3 @@
+-  process website input
+-  pull technician information from the database
+-  Send customer information to the technician's mobile application (in a priority queue)
